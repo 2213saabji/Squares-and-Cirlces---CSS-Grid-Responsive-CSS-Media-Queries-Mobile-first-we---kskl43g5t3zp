@@ -1,5 +1,8 @@
 .outer-square {
   /* your css goes here */
+  background-color:red;
+  width:100vw;
+  height:100vh;
 }
 .inner-square {
   /* your css goes here */
