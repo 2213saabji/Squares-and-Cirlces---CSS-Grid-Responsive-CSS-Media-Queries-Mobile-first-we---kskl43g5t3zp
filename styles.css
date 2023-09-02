@@ -11,10 +11,14 @@
 .inner-square {
   /* your css goes here */
   margin:10px;
+  height:100%;
+  width:100%;
   background-color: green;
 }
 .circle {
   /* your css goes here */
+  height:100%;
+  width:100%;
   margin:10px;
   border-radius: 50%;
   background-color: blue;
